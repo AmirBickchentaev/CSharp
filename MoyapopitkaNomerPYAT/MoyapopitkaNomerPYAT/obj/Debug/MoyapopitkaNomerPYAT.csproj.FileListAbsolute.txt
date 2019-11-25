@@ -1,0 +1,15 @@
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\bin\Debug\MoyapopitkaNomerPYAT.exe.config
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\bin\Debug\MoyapopitkaNomerPYAT.exe
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\bin\Debug\MoyapopitkaNomerPYAT.pdb
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.csprojAssemblyReference.cache
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MainWindow.g.cs
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\App.g.cs
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT_MarkupCompile.cache
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT_MarkupCompile.lref
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MainWindow.baml
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.g.resources
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.Properties.Resources.resources
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.csproj.GenerateResource.cache
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.csproj.CoreCompileInputs.cache
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.exe
+C:\Users\79375\source\repos\MoyapopitkaNomerPYAT\MoyapopitkaNomerPYAT\obj\Debug\MoyapopitkaNomerPYAT.pdb
